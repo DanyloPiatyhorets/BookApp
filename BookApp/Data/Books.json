@@ -1,0 +1,67 @@
+    [
+      {
+        "id": 1,
+        "title": "The Old Man and the Sea",
+        "yearOfIssue": "1952",
+        "author": "Ernest Hemingway",
+        "originalLanguage": "English",
+        "shortContext": "An aging fisherman struggles with a giant marlin far out in the Gulf Stream.",
+        "imageName": "oldmansea"
+      },
+      {
+        "id": 2,
+        "title": "One Hundred Years of Solitude",
+        "yearOfIssue": "1967",
+        "author": "Gabriel García Márquez",
+        "originalLanguage": "Spanish",
+        "shortContext": "A multi-generational story of the Buendía family in the fictional town of Macondo.",
+        "imageName": "solitude"
+      },
+      {
+        "id": 3,
+        "title": "Crime and Punishment",
+        "yearOfIssue": "1866",
+        "author": "Fyodor Dostoevsky",
+        "originalLanguage": "Russian",
+        "shortContext": "A psychological drama about a young man who commits a crime and wrestles with guilt.",
+        "imageName": "crimepunishment"
+      },
+      {
+        "id": 4,
+        "title": "The Trial",
+        "yearOfIssue": "1925",
+        "author": "Franz Kafka",
+        "originalLanguage": "German",
+        "shortContext": "A man is arrested and prosecuted by a mysterious authority without being told his crime.",
+        "imageName": "thetrial"
+      },
+      {
+        "id": 5,
+        "title": "Things Fall Apart",
+        "yearOfIssue": "1958",
+        "author": "Chinua Achebe",
+        "originalLanguage": "English",
+        "shortContext": "A tale of pre-colonial life in Nigeria and the clash with European colonialism.",
+        "imageName": "thingsfallapart"
+      },
+      {
+        "id": 6,
+         "title": "The Master and Margarita",
+         "yearOfIssue": "1967",
+         "author": "Mikhail Bulgakov",
+         "originalLanguage": "Russian",
+         "shortContext": "A fantastical tale where the Devil visits Soviet Moscow, blending satire, religion, and romance.",
+         "imageName": "mastermargarita"
+       },
+       {
+        "id": 7,
+         "title": "Blindness",
+         "yearOfIssue": "1995",
+         "author": "José Saramago",
+         "originalLanguage": "Portuguese",
+         "shortContext": "An unexplained mass blindness leads to the breakdown of society in a gripping allegorical novel.",
+         "imageName": "blindness"
+       }
+    ]
+
+
