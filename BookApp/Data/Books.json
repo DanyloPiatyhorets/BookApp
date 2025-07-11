@@ -1,6 +1,5 @@
     [
       {
-        "id": 1,
         "title": "The Old Man and the Sea",
         "yearOfIssue": "1952",
         "author": "Ernest Hemingway",
@@ -9,7 +8,6 @@
         "imageName": "oldmansea"
       },
       {
-        "id": 2,
         "title": "One Hundred Years of Solitude",
         "yearOfIssue": "1967",
         "author": "Gabriel García Márquez",
@@ -18,7 +16,6 @@
         "imageName": "solitude"
       },
       {
-        "id": 3,
         "title": "Crime and Punishment",
         "yearOfIssue": "1866",
         "author": "Fyodor Dostoevsky",
@@ -27,7 +24,6 @@
         "imageName": "crimepunishment"
       },
       {
-        "id": 4,
         "title": "The Trial",
         "yearOfIssue": "1925",
         "author": "Franz Kafka",
@@ -36,7 +32,6 @@
         "imageName": "thetrial"
       },
       {
-        "id": 5,
         "title": "Things Fall Apart",
         "yearOfIssue": "1958",
         "author": "Chinua Achebe",
@@ -45,7 +40,6 @@
         "imageName": "thingsfallapart"
       },
       {
-        "id": 6,
          "title": "The Master and Margarita",
          "yearOfIssue": "1967",
          "author": "Mikhail Bulgakov",
@@ -54,7 +48,6 @@
          "imageName": "mastermargarita"
        },
        {
-        "id": 7,
          "title": "Blindness",
          "yearOfIssue": "1995",
          "author": "José Saramago",

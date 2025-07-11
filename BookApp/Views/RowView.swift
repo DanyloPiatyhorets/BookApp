@@ -5,13 +5,6 @@ struct RowView: View {
     
     var body: some View {
             HStack(alignment: .top, spacing: 16) {
-                book.image
-                    .resizable()
-                    .scaledToFill()
-                    .frame(width: 60, height: 90)
-                    .clipped()
-                    .cornerRadius(8)
-                    .shadow(radius: 2)
 
                 VStack(alignment: .leading, spacing: 4) {
                     Text(book.title)
@@ -22,9 +15,6 @@ struct RowView: View {
                         .font(.subheadline)
                         .foregroundColor(.secondary)
 
-                    Text("\(book.yearOfIssue) - \(book.originalLanguage)")
-                        .font(.caption)
-                        .foregroundColor(.gray)
 
                 }
 

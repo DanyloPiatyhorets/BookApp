@@ -1,21 +1,20 @@
 import SwiftUI
 
 struct ListView: View {
-    
-    let books = ModelData().books
-    
+    @State private var modelData = ModelData()
+
     var body: some View {
-        List {
-            ForEach(books) { book in
+        NavigationView {
+            List(modelData.books) { book in
                 RowView(book: book)
             }
+            .navigationTitle("NYT Books")
         }
-        .navigationTitle("My Books")
+        .task {
+            await modelData.fetchBooks()
+        }
     }
-    
 }
-#Preview {
-    ListView()
-}
+
 
 
